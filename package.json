@@ -1,3 +1,26 @@
 {
-  "express" : "latest"
+  "name": "black-bookstore",
+  "version": "0.0.1",
+  "description": "Black Bookstore App",
+  "main": "app.js",
+  "author": "DeBray Carpenter & Marquis Parks",
+  "dependencies": {
+    "ejs": "latest",
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeBrayC/bookstore-app.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeBrayC/bookstore-app/issues"
+  },
+  "homepage": "https://github.com/DeBrayC/bookstore-app#readme"
 }
