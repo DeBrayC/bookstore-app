@@ -1,16 +1,16 @@
-.navbar {
+#navbar {
   background-color: black;
   color: white;
 
 }
-.header {
+#header {
   background-color: darkred;
   color: black;
 
 }
-.content {
-  
+#content {
+
 }
-.footer {
+#footer {
   background-color: darkred;
 }
