@@ -5,10 +5,11 @@
   "main": "app.js",
   "author": "DeBray Carpenter & Marquis Parks",
   "dependencies": {
+    "cheerio": "latest",
     "ejs": "latest",
     "express": "latest",
-    "request": "latest",
-    "cheerio": "latest"
+    "pg": "^6.1.5",
+    "request": "latest"
   },
   "devDependencies": {},
   "scripts": {
